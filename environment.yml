@@ -1,0 +1,23 @@
+name: monitoring-expts
+dependencies:
+- python=3
+- jupyter
+- pandas
+- scipy
+- bokeh
+- dask
+- distributed
+- scikit-learn
+- simplejson
+- nodejs
+- click
+- pip
+- pip:
+  - python-json-logger
+  - tensorboardX
+  - tensorflow
+  - dash
+  - dash-renderer
+  - dash-html-components
+  - dash-core-components
+  - plotly

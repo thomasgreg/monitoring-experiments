@@ -1,0 +1,6 @@
+notebooks/.ipynb_checkpoints
+**/dask-worker-space
+/bokeh_app/static/parallel_coords.js
+.idea/
+notebooks/runs/
+
